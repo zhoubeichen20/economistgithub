@@ -1,5 +1,5 @@
 # Economist-Magazine
-A place to store economist magazine
+A place to store the economist magazine
 
 # 经济学人杂志
 
