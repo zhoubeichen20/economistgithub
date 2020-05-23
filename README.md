@@ -16,3 +16,9 @@ If you want to receive the magazine in your email inbox or kindle, please see [t
 2. 经济学人内所有内容皆为作者观点，与北辰无关
 3. 所有内容皆来自于互联网
 4. 该资料仅供个人学习使用
+
+---
+
+This depository stores The Economist magazine downloaded by the [Calibre](https://calibre-ebook.com/) package.
+You are free to downloand and use them, subject to the conditions of the Magazine and common licenses. 
+
